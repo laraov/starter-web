@@ -8,7 +8,7 @@ Sample website with plenty of files for demos. WD
 
 ## How To Contribute
 
-Test
+Test Please fork
 
 ## Deployment
 
