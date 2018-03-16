@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. Yeahh
 
 ## Purpose
 
-Sample website with plenty of files for demos. WD
+stash purpose
 
 ## How To Contribute
 
