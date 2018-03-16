@@ -3,6 +3,7 @@
 
 # TEAM
 	Janiu
+	P00hy
     <name> -- <role> -- <twitter>
 
 # THANKS
