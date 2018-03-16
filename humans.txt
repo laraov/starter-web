@@ -5,6 +5,7 @@
 	Janiu
 	P00hy
 	porwi
+	jaro
     <name> -- <role> -- <twitter>
 
 # THANKS
